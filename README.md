@@ -3,5 +3,5 @@
 ローカルリポで修正したよ！　　
 
 rebase-practice ブランチで更新(rebaseコンフリクト用)
-
+rebase pull用
 
